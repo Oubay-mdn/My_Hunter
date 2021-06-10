@@ -2,6 +2,8 @@
 
 *Une version remixée du Duck Hunt ! 🦆*
 
+*Oui ! Protect The Valhalla est un jeu où vous devez protéger la route du Valhalla des ennemis en approche à travers un sublime parallaxe ! ⚔️🛡*
+
 ## 🎙 __Bonjour ! 🎙 (ou bonsoir)__
 
 --------------------
